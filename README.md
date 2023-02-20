@@ -6,4 +6,4 @@
     4. can not type up 100 words in one card
 
 ## project preview
-屏幕快照 2023-02-21 上午12.41.09.png
+<img width="1440" alt="屏幕快照 2023-02-21 上午12 41 09" src="https://user-images.githubusercontent.com/93109500/220131557-98307d69-613c-4af3-ab3d-a8ef3c155eb3.png">
